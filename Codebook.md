@@ -5,10 +5,6 @@ date: "7/7/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Data Introduction
 
 - This project will use six data, which are `x_train.txt`, `x_test.txt`, `y_train.txt`, `y_test.txt`, `subject_train.txt` and `subject_test.txt`, they can all be found inside the downloaded dataset, namely URI HAR Dataset.
